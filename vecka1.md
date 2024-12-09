@@ -27,10 +27,10 @@
 
 ## Del 2: Begrepp och koncept
 
-7. Vad kan SQL rader jämföras med i C#?
-8. Vad kan SQL kolumner jämföras med i C#?
-9. Vad kan SQL constraints jämföras med i C#?
-10. Vad kan SQL tabeller jämföras med i C#?
+7. Vad kan SQL rader jämföras med i Java?
+8. Vad kan SQL kolumner jämföras med i Java?
+9. Vad kan SQL constraints jämföras med i Java?
+10. Vad kan SQL tabeller jämföras med i Java?
 11. Förklara vad en modell är.
 12. Vad är det för skillnad på en query och en rad (row)?
 13. Vilket nyckelord används i SQL för att hämta data med en query?
